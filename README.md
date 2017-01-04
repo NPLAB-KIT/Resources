@@ -8,3 +8,7 @@ Link: [Markdown 작성법] [MDlink]
 #2. 마크다운 파일(.md)을 웹 프리젠테이션 파일(.html)로 변환하기(Converting markdown documents to html presentations)
 Link: [markdown-to-slides] [MDlink]
 [MDlink]: https://www.npmjs.com/package/markdown-to-slides
+---
+#3. 파워포인트 파일(.pptx)을 마크다운 파일(.md)로 변환하기(Converting Powerpoint slides to Markdown documents)
+Link: [powerpoint-to-markdown] [MDlink]
+[MDlink]: https://github.com/revan/pptx2md#powerpoint-to-markdown-converter
